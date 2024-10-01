@@ -179,6 +179,7 @@ main {
   border-radius: 20px;
 }
 .box9 button:active {
+  transition: 0.3s;
   cursor: progress;
   background-color: #ef400f;
 }
